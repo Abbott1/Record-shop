@@ -1,0 +1,17 @@
+
+body {
+    align-content: center;
+}
+
+#album-cover {
+    width: 135px;
+    height: 135px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+div {
+    border: 1px solid red;
+}
